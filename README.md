@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dragos</h1>
-<h3 align="center">My code ? Object oriented. My mind ? Results oriented. My clients ? Always happy.</h3>
+<h3 align="left">My code ? Object oriented. My mind ? Results oriented. My clients ? Always happy.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
