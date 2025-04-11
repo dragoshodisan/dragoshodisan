@@ -26,14 +26,10 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 ### ⚙️ Some Tool and Tech I use
 
 <code><img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/40770499/86150136-a4108c80-bb05-11ea-9414-16870738ddf5.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
+<code><img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS3"></code>
+<code><img src="https://img.shields.io/badge/tailwind%20CSS-gray?style=for-the-badge&logo=tailwind-css"></code>
+<code><img src="https://img.shields.io/badge/SCSS-gray?style=for-the-badge&logo=sass"></code><br>
+<code><img src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript"></code>
+<code><img src="https://img.shields.io/badge/TYPESCRIPT-gray?style=for-the-badge&logo=Typescript"></code>
+<code><img src="https://img.shields.io/badge/REACT-gray?style=for-the-badge&logo=react"></code>
 
