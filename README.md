@@ -32,5 +32,9 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 <code><img src="https://img.shields.io/badge/SCSS-gray?style=for-the-badge&logo=sass"></code><br>
 <code><img src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript"></code>
 <code><img src="https://img.shields.io/badge/TYPESCRIPT-gray?style=for-the-badge&logo=Typescript"></code>
-<code><img src="https://img.shields.io/badge/REACT-gray?style=for-the-badge&logo=react"></code>
+<code><img src="https://img.shields.io/badge/REACT-gray?style=for-the-badge&logo=react"></code><br>
+<code><img src="https://img.shields.io/badge/NODEJS-gray?style=for-the-badge&logo=nodejs"></code>
+<code><img src="https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git"></code>
 
+### 🤝 Let's collaborate on making the web a faster, more beautiful place! 
+### 📩 Open to exciting projects and opportunities.
