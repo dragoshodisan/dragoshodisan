@@ -33,7 +33,7 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 <code><img src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript"></code>
 <code><img src="https://img.shields.io/badge/TYPESCRIPT-gray?style=for-the-badge&logo=Typescript"></code>
 <code><img src="https://img.shields.io/badge/REACT-gray?style=for-the-badge&logo=react"></code><br>
-<code><img src="https://img.shields.io/badge/NODEJS-gray?style=for-the-badge&logo=nodejs"></code>
+<code><img src="https://img.shields.io/badge/NODE-gray?style=for-the-badge&logo=node"></code>
 <code><img src="https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git"></code><br>
 
 
