@@ -1,6 +1,7 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hello, I'm <a href="https://github.com/dragoshodisan">Dragos</a></h1>
 </h1>
+
 ![I am Dragos](https://media.licdn.com/dms/image/v2/D4D16AQFhyEVTZBRVAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739368331409?e=1749686400&v=beta&t=MJwn0V6Wdq1TyjX-qc8IzMmR6j3T86Rwml2JzrQgT7w)
 
 ### 📬 Find me at
