@@ -5,9 +5,9 @@
 ![I am Dragos](https://media.licdn.com/dms/image/v2/D4D16AQFhyEVTZBRVAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739368331409?e=1749686400&v=beta&t=MJwn0V6Wdq1TyjX-qc8IzMmR6j3T86Rwml2JzrQgT7w)
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dragoshodisan/)](https://github.com/dragoshodisan/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dragoshodisan/)](https://www.linkedin.com/in/dragoshodisan/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dragoshodisann@gmail.com)](mailto:dragoshodisann@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dragoshodisan/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dragoshodisan/)](https://www.linkedin.com/in/dragoshodisan/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dragoshodisann@gmail.com)](mailto:dragoshodisann@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Frontend Web Developer** from 📍Oradea, Romania. 
@@ -36,5 +36,5 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 <code><img src="https://img.shields.io/badge/NODEJS-gray?style=for-the-badge&logo=nodejs"></code>
 <code><img src="https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git"></code>
 
-### 🤝 Let's collaborate on making the web a faster, more beautiful place! 
-### 📩 Open to exciting projects and opportunities.
+**🤝 Let's collaborate on making the web a faster, more beautiful place!**
+**📩 Open to exciting projects and opportunities.**
