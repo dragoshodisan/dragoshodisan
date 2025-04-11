@@ -3,6 +3,8 @@
 </h1>
 <h3 align="left">My code ? Object oriented. My mind ? Results oriented. My clients ? Always happy.</h3>
 
+![I am Dragos](https://media.licdn.com/dms/image/v2/D4D16AQFhyEVTZBRVAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739368331409?e=1749686400&v=beta&t=MJwn0V6Wdq1TyjX-qc8IzMmR6j3T86Rwml2JzrQgT7w)
+
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dragoshodisan/)](https://github.com/dragoshodisan/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dragoshodisan/)](https://www.linkedin.com/in/dragoshodisan/)
