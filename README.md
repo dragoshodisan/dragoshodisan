@@ -13,7 +13,7 @@
 **Frontend Web Developer** from 📍Oradea, Romania.<br>
 Over the last 3 years, I have been crafting modern landing pages and web applications.<br>
 Always driven by results, powered by RedBull and raw milk.<br>
-Crypto geek 🪙
+Crypto geek. 🪙
 
 💻 Specializing in:
 
