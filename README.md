@@ -1,5 +1,5 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hello, I'm <a href="https://github.com/dragoshodisan">Dragos</a></h1>
+<h1>Hello, I'm Dragos 🎩</h1>
 </h1>
 
 ![I am Dragos](https://media.licdn.com/dms/image/v2/D4D16AQFhyEVTZBRVAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739368331409?e=1749686400&v=beta&t=MJwn0V6Wdq1TyjX-qc8IzMmR6j3T86Rwml2JzrQgT7w)
@@ -34,7 +34,7 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 <code><img src="https://img.shields.io/badge/TYPESCRIPT-gray?style=for-the-badge&logo=Typescript"></code>
 <code><img src="https://img.shields.io/badge/REACT-gray?style=for-the-badge&logo=react"></code><br>
 <code><img src="https://img.shields.io/badge/NODEJS-gray?style=for-the-badge&logo=nodejs"></code>
-<code><img src="https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git"></code>
+<code><img src="https://img.shields.io/badge/GIT-grey?style=for-the-badge&logo=git"></code><br>
 
 
 **🤝 Let's collaborate on making the web a faster, more beautiful place!**<br>
