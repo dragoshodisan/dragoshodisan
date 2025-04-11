@@ -12,7 +12,7 @@
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 **Frontend Web Developer** from 📍Oradea, Romania.<br>
 Over the last 3 years, I have been crafting modern landing pages and web applications.<br>
-Always driven by results, powered by RedBull and raw milk.<br>
+Always driven by results, powered by RedBull or black coffee.<br>
 Crypto geek. 🪙
 
 💻 Specializing in:
