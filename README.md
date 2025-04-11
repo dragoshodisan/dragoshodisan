@@ -23,7 +23,7 @@ I'm a **Frontend Web Developer** from 📍Oradea, Romania.
 🔭 I’m currently working at <a href="https://www.linkedin.com/company/arete-digital-ca/">Arete Digital</a> and on my side projects **😃**
 
 ### 🖥️ Developement Setup
-<img src="https://img.shields.io/badge/Kubuntu-grey?style=flat-square&logo=Kubuntu"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Intellij%20Idea-000??style=flat-square&logo=intellij-idea"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 
 ### ⚙️ Some Tool and Tech I use
 
