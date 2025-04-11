@@ -1,5 +1,5 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hello, I'm <a href="https://github.com/dragoshodisan">Dragos</a> <</h1>
+<h1>Hello, I'm <a href="https://github.com/dragoshodisan">Dragos</a></h1>
 </h1>
 <h3 align="left">My code ? Object oriented. My mind ? Results oriented. My clients ? Always happy.</h3>
 
